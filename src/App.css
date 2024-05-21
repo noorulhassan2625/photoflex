@@ -33,7 +33,7 @@ height: 300px;
   height: 320px;
   overflow: hidden;
 }
-.card .card-tile{
+/* .card .card-tile{
   position: relative;
   top: -85px;
   padding-left: 10px;
@@ -47,4 +47,4 @@ height: 300px;
   transition: .5s;
   position: relative;
   right: -10px;
-}
+} */
